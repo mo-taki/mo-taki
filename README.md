@@ -13,9 +13,7 @@ private repository
 
 #### raspi-room-monitor
 
-```
-wip
-```
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=mo-taki&repo=mo-taki%2Fraspi-room-monitor&show_owner=true&description_lines_count=1&theme=default)](https://github.com/mo-taki/raspi-room-monitor)
 
 ### その他
 #### AtCoderの記録
