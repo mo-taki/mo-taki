@@ -1,16 +1,23 @@
-## Hi there 👋
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=mo-taki&langs_count=6&disable_animations=true)](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&langs_count=6&disable_animations=true)
 
-<!--
-**mo-taki/mo-taki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 個人開発
 
-Here are some ideas to get you started:
+#### easy-roulette
+```
+private repository
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### mem-price-dashboard
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=mo-taki&repo=mo-taki%2Fmem-price-dashboard&show_owner=true&description_lines_count=1&theme=default)](https://github.com/mo-taki/mem-price-dashboard)
+
+#### raspi-room-monitor
+
+```
+wip
+```
+
+### その他
+#### AtCoderの記録
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=mo-taki&repo=mo-taki%2Fatcoder-go&show_owner=true&description_lines_count=1&theme=default)](https://github.com/mo-taki/atcoder-go)
