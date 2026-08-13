@@ -22,4 +22,4 @@ private repository
 
 - Starship theme
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=mo-taki&repo=mo-taki%2Fstarship&theme=default)](https://github.com/mo-taki/starship)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=mo-taki&repo=mo-taki%2Fstarship&show_owner=true&theme=default)](https://github.com/mo-taki/starship)
