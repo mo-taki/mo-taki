@@ -1,4 +1,4 @@
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=mo-taki&langs_count=6&disable_animations=true)](https://github-stats-extended.vercel.app/api/top-langs?username=mo-taki&langs_count=6&disable_animations=true)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=mo-taki&hide_title=true&langs_count=4&disable_animations=true)](https://github-stats-extended.vercel.app/api/top-langs?username=mo-taki&hide_title=true&langs_count=4&disable_animations=true)
 
 ### 個人開発
 
